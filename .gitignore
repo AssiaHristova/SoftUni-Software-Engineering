@@ -26,3 +26,4 @@
 /Programming Fundamentals/text_processing/venv
 .idea
 venv
+__pycache__
